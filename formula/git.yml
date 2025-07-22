@@ -1,0 +1,5 @@
+summary: A free and open source distributed version control system with speed and efficiency
+webpage: https://git-scm.com/
+version: 2.50.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.4-amd64/releases/download/2025.07.22/git-2.50.0-freebsd-13.4-amd64.release.tar.xz 
+bin-sha: 2f324a6e6be5f880d98c7db57510518df343910fe056078faf315dd691214faa

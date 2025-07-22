@@ -1,0 +1,5 @@
+summary: A popular data compression program developed by GNU
+webpage: https://www.gnu.org/software/gzip
+version: 1.13 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.4-amd64/releases/download/2025.07.22/gzip-1.13-freebsd-13.4-amd64.release.tar.xz 
+bin-sha: de750b38311aefa5675dff24ea68be5a3395ae7025c8c83c36ddf136a270431d

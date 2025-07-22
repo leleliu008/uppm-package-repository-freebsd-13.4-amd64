@@ -1,0 +1,5 @@
+summary: Arbitrary precision numeric processing language
+webpage: https://www.gnu.org/software/bc
+version: 1.07.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.4-amd64/releases/download/2025.07.22/bc-1.07.1-freebsd-13.4-amd64.release.tar.xz 
+bin-sha: ac49b7c59f945050c2696fe5b9b085f3880baf817374efa969078f00aab310a5

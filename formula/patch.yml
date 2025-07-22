@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.4-amd64/releases/download/2025.07.22/patch-2.7.6-freebsd-13.4-amd64.release.tar.xz 
+bin-sha: cdb6b7f6c404484eda43101a75f2f1b01dc2ba0982ef7e3baf9be57cae235f99

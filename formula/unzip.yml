@@ -1,0 +1,5 @@
+summary: A command-line tool for extracting zip-compressed archives(.zip files)
+webpage: https://infozip.sourceforge.io/UnZip.html
+version: 6.0.28 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-13.4-amd64/releases/download/2025.07.22/unzip-6.0.28-freebsd-13.4-amd64.release.tar.xz 
+bin-sha: efabc6bf83dcdc898b9890d077c754a18c058859d8998c60a29703534257ddd4
